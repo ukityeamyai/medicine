@@ -14,6 +14,7 @@ private:
     int price;
 public:
     medicine();
+    void ADD();
 };
 
 
